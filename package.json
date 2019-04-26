@@ -1,0 +1,19 @@
+{
+  "name": "react-data-grid-temp-typings",
+  "version": "0.0.1",
+  "description": "temperoary fix for the react-data-grid missing type definition issue.",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ragzzy-R/react-data-grid-temp-typings.git"
+  },
+  "author": "Raghuram Iyer 'Ragzzy-R'",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ragzzy-R/react-data-grid-temp-typings/issues"
+  },
+  "homepage": "https://github.com/Ragzzy-R/react-data-grid-temp-typings#readme"
+}
